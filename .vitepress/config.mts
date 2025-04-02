@@ -34,6 +34,7 @@ export default defineConfig({
           { text: 'Media Generation', link: '/user-guide/media' },
           { text: 'Features / Bugs', link: '/user-guide/features' },
           { text: 'FAQ', link: '/user-guide/faq' },
+          { text: 'Authorization', link: '/user-guide/authorization' },
         ]
       },
       {
