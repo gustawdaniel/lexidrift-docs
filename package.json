@@ -15,5 +15,8 @@
   "packageManager": "pnpm@10.4.1",
   "dependencies": {
     "vitepress": "^1.6.3"
+  },
+  "pnpm": {
+    "neverBuiltDependencies": []
   }
 }
